@@ -1,0 +1,15 @@
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.exe
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.pdb
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.exe
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.pdb
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.exe
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\bin\Debug\lab4.pdb
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.exe
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4\lab4\lab4\obj\Debug\lab4.pdb
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4_var5\lab4\lab4\bin\Debug\lab4.exe.config
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4_var5\lab4\lab4\obj\Debug\lab4.exe
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab4_var5\lab4\lab4\obj\Debug\lab4.pdb
