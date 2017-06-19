@@ -1,0 +1,27 @@
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.exe
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.pdb
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.exe
+E:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.pdb
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.exe
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.pdb
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.exe
+F:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\student410\Desktop\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\student410\Desktop\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\student410\Desktop\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\student410\Desktop\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\student410\Desktop\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\student410\Desktop\lab3\lab3\bin\Debug\lab3.pdb
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.exe
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3\lab3\lab3\obj\Debug\lab3.pdb
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\bin\Debug\lab3.exe.config
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\bin\Debug\lab3.exe
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\bin\Debug\lab3.pdb
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\obj\Debug\lab3.exe
+G:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab3_var5\lab3\lab3\obj\Debug\lab3.pdb
