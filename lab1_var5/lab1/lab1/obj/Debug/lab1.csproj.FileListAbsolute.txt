@@ -1,0 +1,6 @@
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\bin\Debug\lab1.exe.config
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\bin\Debug\lab1.exe
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\bin\Debug\lab1.pdb
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\obj\Debug\lab1.exe
+K:\УЧЁБА\Задания-учебники-лабы\Теория алгоритмов\labs\lab1_var5\lab1\lab1\obj\Debug\lab1.pdb
